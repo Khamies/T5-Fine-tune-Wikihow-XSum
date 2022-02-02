@@ -1,4 +1,4 @@
-# T5-Fine-tune-Wikihow-XSum :hammer: :wrench:
+# T5WikiXsum: :hammer: T5 Fine-tuning on Wikihow and XSum. :wrench:
 
 <img src="./media/t5.png" align="center" height="300" width="800" >
 
@@ -14,7 +14,7 @@
 
 ### Introduction
 
-This is a Pytorch implementation to a summarization model that has been fine-tuned on the top of Google-T5 pre-trained model. The implementation uses HuggingFace `transformers` and `datasets` libraries while model has been fine-tuned on two public summarization datasets, Wikihow and Xsum. For validation and testing the quality of the summary, `rouge-1` metric has been used.
+This is a Pytorch implementation of a summarization model that has been fine-tuned on the top of Google-T5 pre-trained model. The implementation uses HuggingFace `transformers` and `datasets` libraries while model has been fine-tuned on two public summarization datasets, Wikihow and Xsum. For validation and testing the quality of the summary, `rouge-1` metric has been used.
 
 **Caution :raised_hand:** This is a `For-Learning` :green_book: project, where Google-Colab has been used as a running environment, and due to the limited budget :moneybag:  ( at this time :grin:) I could not be able to fully tune the model.
 
