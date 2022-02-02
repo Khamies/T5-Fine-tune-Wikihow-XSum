@@ -78,6 +78,8 @@ Here are some generated samples from the model:
 > **Recognize how you think of this person.** 
 > **Know that there's nothing wrong with having a crush**.
 
+It seems the model has become a therapist now :astonished: :joy:
+
 - Xsum
 
 ​	**Paragraph**
@@ -93,6 +95,8 @@ Here are some generated samples from the model:
 > **The number of full-time undergraduate and postgraduate students at the University of Northern Ireland's Queen's has been cut by £100m over the next three years.**
 
 
+
+This is pretty not bad :heart_eyes:
 
 ## Citation
 
