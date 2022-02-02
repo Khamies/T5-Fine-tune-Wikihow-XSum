@@ -122,7 +122,7 @@ This is pretty not bad for few steps :heart_eyes:  no?  **[Please drop me a mess
 
 ### License 
 
-![](https://img.shields.io/github/license/Khamies/T5-Fine-tune-Wikihow-XSum)
+![GitHub](https://img.shields.io/github/license/Khamies/T5-Fine-tune-Wikihow-XSum)
 
 
 
