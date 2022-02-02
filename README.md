@@ -96,7 +96,7 @@ It seems the model has become a therapist now :astonished: :joy:
 
 
 
-This is pretty not bad :heart_eyes: :trollface:
+This is pretty not bad for few steps :heart_eyes:  no?  **[Please drop me a message here, I love to hear your thoughts!](#Connect-with-me)**
 
 ## Citation
 
