@@ -2,7 +2,7 @@
 
 <img src="./media/t5.png" align="center" height="300" width="800" >
 
-### Table of Contents
+### :book: Table of Contents
 
 - **[Introduction](#Introduction)**
 - **[Setup](#Setup)**
@@ -104,7 +104,7 @@ This is pretty not bad :heart_eyes:
 > @misc{Khamies2021T5Fine-tune-Wikihow-XSum,
 > author = {Khamies, Waleed},
 > title = {A pytorch Google-T5 fine-tuned summarization model on Wikihow and Xsum datasets.},
-> year = {2021},
+> year = {2022},
 > publisher = {GitHub},
 > journal = {GitHub repository},
 > howpublished = {\url{https://github.com/Khamies/T5-Fine-tune-Wikihow-XSum}},
