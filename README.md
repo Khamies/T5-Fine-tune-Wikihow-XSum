@@ -2,7 +2,7 @@
 
 <img src="./media/t5.png" align="center" height="300" width="800" >
 
-### :book: Table of Contents
+### Table of Contents :book: 
 
 - **[Introduction](#Introduction)**
 - **[Setup](#Setup)**
@@ -18,7 +18,7 @@ This is a Pytorch implementation of a summarization model that has been fine-tun
 
 **Caution :raised_hand:** This is a `For-Learning` :green_book: project, where Google-Colab has been used as a running environment, and due to the limited budget :moneybag:  ( at this time :grin:) I could not be able to fully tune the model.
 
-### Setup
+### Setup :wrench:
 
 The code is using `pipenv` as a virtual environment and package manager. To run the code, all you need is to install the necessary dependencies. open the terminal and type:
 
@@ -32,7 +32,7 @@ or
 
 And you should be ready to go to play with code and build upon it, Yay! :v:
 
-### Run the code
+### Run the code :
 
 - To train the model, run: `python main.py`
 - To train the model with specific arguments, run: `python main.py --tr_batch_size = 4`. The following command-line arguments are available:
@@ -96,7 +96,7 @@ It seems the model has become a therapist now :astonished: :joy:
 
 
 
-This is pretty not bad :heart_eyes:
+This is pretty not bad :heart_eyes: :trollface:
 
 ## Citation
 
